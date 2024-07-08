@@ -11,7 +11,7 @@ Welcome to the demo of my portfolio. This repository contains the source code an
 
 ## How to View
 
-To view the portfolio, you can visit the [live demo](https://muhmmadwaqaar.github.io/Portfolio/) or clone this repository and open `index.html` in your browser.
+To view the portfolio, you can visit the [live demo](https://muhmmadwaqar.github.io/Portfolio/) or clone this repository and open `index.html` in your browser.
 
 ## Technologies Used
 

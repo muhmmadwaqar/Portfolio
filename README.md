@@ -1,1 +1,33 @@
-echo "# Waqar's Portfolio\n\nWelcome to the demo of my portfolio. This repository contains the source code and assets for my personal portfolio website. The website showcases my skills, projects, and experience as a web developer.\n\n## Contents\n\n- **About Me:** Information about my background, education, and professional journey.\n- **Projects:** A showcase of my projects, including descriptions, technologies used, and links to live demos or repositories.\n- **Skills:** A list of technical skills and proficiencies.\n- **Contact:** How to get in touch with me.\n\n## How to View\n\nTo view the portfolio, you can visit the [live demo](https://your-portfolio-url.com) or clone this repository and open `index.html` in your browser.\n\n## Technologies Used\n\n- HTML5 & CSS3\n- JavaScript (ES6+)\n- React.js\n- Node.js\n- Express.js\n- MongoDB\n- PHP (Laravel)\n- MySQL\n\n## Getting Started\n\nTo run the portfolio locally, follow these steps:\n\n1. Clone the repository:\n   ```bash\n   git clone https://github.com/muhmmadwaqaar/waqar_portfolio.git\n   ```\n
+# Waqar's Portfolio
+
+Welcome to the demo of my portfolio. This repository contains the source code and assets for my personal portfolio website. The website showcases my skills, projects, and experience as a web developer.
+
+## Contents
+
+- **About Me:** Information about my background, education, and professional journey.
+- **Projects:** A showcase of my projects, including descriptions, technologies used, and links to live demos or repositories.
+- **Skills:** A list of technical skills and proficiencies.
+- **Contact:** How to get in touch with me.
+
+## How to View
+
+To view the portfolio, you can visit the [live demo](https://muhmmadwaqaar.github.io/Portfolio/) or clone this repository and open `index.html` in your browser.
+
+## Technologies Used
+
+- HTML5 & CSS3
+- JavaScript (ES6+)
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- PHP (Laravel)
+- MySQL
+
+## Getting Started
+
+To run the portfolio locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/muhmmadwaqaar/waqar_portfolio.git

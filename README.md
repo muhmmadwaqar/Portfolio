@@ -16,13 +16,6 @@ To view the portfolio, you can visit the [live demo](https://muhmmadwaqaar.githu
 ## Technologies Used
 
 - HTML5 & CSS3
-- JavaScript (ES6+)
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- PHP (Laravel)
-- MySQL
 
 ## Getting Started
 
